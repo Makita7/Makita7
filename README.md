@@ -23,7 +23,7 @@
 ### 🛠️ Tools & Tech
 
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Pinia](https://img.shields.io/badge/Pinia-ffe564?style=flat&logo=pinia&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=pinia&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
