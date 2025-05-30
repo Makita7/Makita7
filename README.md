@@ -23,12 +23,13 @@
 ### 🛠️ Tools & Tech
 
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Pinia]([https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D](https://pinia.vuejs.org/))
+![Pinia](https://img.shields.io/badge/Pinia-ffe564?style=flat&logo=pinia&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React JS]([https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white](https://react.dev/))
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
